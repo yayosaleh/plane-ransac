@@ -24,7 +24,7 @@ Unsurprisingly, the lowest runtime occurred when the number of threads were near
 
 ## Sample Results
 
-![Input LiDAR data containing 80,000 points](images/Experiment.png)
+![Input LiDAR data containing 80,000 points](images/Input.png)
 
 Input LiDAR data containing 80,000 points
 
